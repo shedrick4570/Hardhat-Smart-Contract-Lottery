@@ -11,6 +11,8 @@ coverage
 coverage.json
 typechain
 .hardhat.config.json
+hardhat.config.js
+helper-hardhat-config.js
 
 # don't push the environment vars!
 .env
